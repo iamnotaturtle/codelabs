@@ -1,2 +1,4 @@
-# Codelabs
-Repo for any codelab work: https://codelabs.developers.google.com
+# Google Projects
+Repo for any codelab/google works.
+
+* Codelab: https://codelabs.developers.google.com
